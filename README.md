@@ -59,7 +59,7 @@ Intracranial hemorrhage (bleeding inside the skull) needs fast diagnosis from he
 
 ## Code
 
-The training code was written in PyTorch on Google Colab. [Add notebooks here if available.]
+The training code was written in PyTorch on Google Colab and is available on request.
 
 ## Authors
 
